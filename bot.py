@@ -5,7 +5,7 @@ import asyncio
 import socket
 from discord.ext import commands
 
-TOKEN = "MTM4NTA5NjUzNDk5MDkxNzY5Nw.GtC1vA.SkY66IJJL_p85eXTp1HK_RrY--js6NrnqMbg4Y"  
+TOKEN = "TOKEN DO BOT"  
 
 intents = discord.Intents.default()
 intents.message_content = True
