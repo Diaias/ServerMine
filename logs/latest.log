@@ -1,0 +1,44 @@
+[14:18:12] [ServerMain/INFO]: [bootstrap] Running Java 23 (Java HotSpot(TM) 64-Bit Server VM 23.0.1+11-39; Oracle Corporation null) on Windows 11 10.0 (amd64)
+[14:18:12] [ServerMain/INFO]: [bootstrap] Loading Purpur 1.21.1-2329-ver/1.21.1@803bf62 (2024-10-31T20:25:04Z) for Minecraft 1.21.1
+[14:18:13] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[14:18:13] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[14:18:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:18:19] [ServerMain/INFO]: Loaded 1290 recipes
+[14:18:19] [ServerMain/INFO]: Loaded 1399 advancements
+[14:18:20] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[14:18:20] [Server thread/INFO]: Loading properties
+[14:18:20] [Server thread/INFO]: This server is running Purpur version 1.21.1-2329-ver/1.21.1@803bf62 (2024-10-31T20:25:04Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[14:18:20] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[14:18:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:18:21] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:18:21] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and population gen parallelism of 3 threads
+[14:18:22] [Server thread/WARN]: [Pufferfish] Will not enable SIMD! These optimizations are only safely supported on Java 17-21.
+[14:18:22] [Server thread/INFO]: Default game type: SURVIVAL
+[14:18:22] [Server thread/INFO]: Generating keypair
+[14:18:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:18:22] [Server thread/INFO]: Using default channel type
+[14:18:22] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[14:18:22] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[14:18:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:18:22] [Server thread/INFO]: Preparing level "world"
+[14:18:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:18:23] [Server thread/INFO]: Time elapsed: 2 ms
+[14:18:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:18:24] [Server thread/INFO]: Time elapsed: 595 ms
+[14:18:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:18:24] [Server thread/INFO]: Time elapsed: 74 ms
+[14:18:24] [Server thread/INFO]: [spark] Starting background profiler...
+[14:18:24] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[14:18:24] [Server thread/INFO]: Done preparing level "world" (2.439s)
+[14:18:24] [Server thread/INFO]: Running delayed init tasks
+[14:18:24] [Server thread/INFO]: Done (13.192s)! For help, type "help"
+[14:19:01] [User Authenticator #0/INFO]: UUID of player DioPiranhudo is 6603718e-ffbe-483a-b01c-3128f46f5a03
+[14:19:02] [Server thread/INFO]: DioPiranhudo joined the game
+[14:19:03] [Server thread/INFO]: DioPiranhudo[/26.21.57.206:59614] logged in with entity id 73 at ([world]436.01637127046416, 28.0, -289.44096691547344)
+[14:20:15] [User Authenticator #1/INFO]: UUID of player Gabe7177 is bcb1c460-afce-408a-bd1d-728733bf38d9
+[14:20:16] [Server thread/INFO]: Gabe7177 joined the game
+[14:20:16] [Server thread/INFO]: Gabe7177[/26.102.213.88:56436] logged in with entity id 1353 at ([world]178.18776449166367, 123.0, 265.0241720069915)
+[14:21:40] [Server thread/INFO]: DioPiranhudo lost connection: Disconnected
+[14:21:40] [Server thread/INFO]: DioPiranhudo left the game
+[14:22:01] [Server thread/INFO]: Gabe7177 lost connection: Disconnected
+[14:22:01] [Server thread/INFO]: Gabe7177 left the game
